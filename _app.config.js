@@ -1,0 +1,1 @@
+window._VBEN_ADMIN_PRO_APP_CONF_={"VITE_GLOB_API_URL":"http://43.153.225.239:9919"};Object.freeze(window._VBEN_ADMIN_PRO_APP_CONF_);Object.defineProperty(window,"_VBEN_ADMIN_PRO_APP_CONF_",{configurable:false,writable:false,});
